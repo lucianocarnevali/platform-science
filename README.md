@@ -2,7 +2,7 @@
 Platform Science Code Exercise
 
 ## Setup
-`$ npm setup`
+`$ npm run setup`
 
 ## Execution example
 Go to the src folder. <br />
