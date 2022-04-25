@@ -2,9 +2,10 @@
   "name": "platform-science",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "platformScienceApp.js",
   "scripts": {
-    "setup": "npm install && npm link"
+    "setup": "npm install && npm link",
+    "start": "node src/platformScienceApp -s $0 -d $1"
   },
   "author": "",
   "license": "ISC",
