@@ -1,4 +1,3 @@
-#! /usr/bin/env node
 const { getGreaterCommonFactor, countVowels, countConsonants, printResults } = require('./lib/helpers.js');
 const { COMMON_FACTOR, EVEN, ODD } = require('./lib/constants.js');
 
