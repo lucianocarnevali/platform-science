@@ -1,11 +1,12 @@
-# platform-science
+# Platform-science
 Platform Science Code Exercise
 
-## setup
+## Setup
 `$ npm setup`
 
 ## Execution example
 Go to the src folder. 
+`$ cd src`
 You have to provide two arguments, -s for shipments address file path and -d for drivers name file path.
 `$ node platformScienceApp.js -s ../fixtures/shipments.txt -d ../fixtures/drivers.txt`
 
